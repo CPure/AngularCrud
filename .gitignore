@@ -42,7 +42,13 @@
 /angularapp/.DS_Store
 /angularapp/Thumbs.db
 
-/webapi/bin
-/webapi/obj
+/API/webapi/bin
+/API/webapi/obj
+
+/Domain/bin
+/Domain/obj
+
+/Infraestructure/bin
+/Infraestructure/obj
 
 /.vs/
